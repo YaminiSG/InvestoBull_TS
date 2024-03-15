@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+}
+table,td,tr{
+  background-color: white;
+   border: none;
+   border-radius: 25px;
+   height: 50px;
+}
+
+.table{
+  width: 100%;
+  height: 450px;
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+}
+th{
+  border: none;
+}
+
+.heading {
+  background-color: #d6f5f5;
+}
+.low{
+  background-color: rgb(130, 242, 130);
+  border-color: green;
+  height: 30px;
+  width:fit-content;
+  border-radius: 0%;
+  color:green;
+}
+/* .container .wrong{
+  background-color: rgb(225, 105, 105);
+  border-color: red;
+} */
